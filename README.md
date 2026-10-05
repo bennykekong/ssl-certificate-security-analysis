@@ -134,15 +134,22 @@ Understanding certificate validity and revocation is important when investigatin
 
 ## 📸 Project Screenshots
 
-Screenshots from the certificate analysis will be added to this section as supporting evidence.
+### 1. Assessment Result — 30/30
+![SSL Certificate Assessment Result](screenshots/ssl-assessment-30-of-30-clean.png)
 
 ---
 
 ## 📄 Project Evidence
 
-The completed SSL Certificate Analysis submission will be included in this repository as supporting evidence.
+The completed SSL Certificate Analysis submission is included in this repository as supporting evidence.
+
+[📄 View SSL Certificate Analysis Submission](SSL%20Certificate%20Analysis-%20Submission.doc)
+
+The project evidence demonstrates SHA-256 fingerprint analysis, Subject Alternative Name inspection, certificate-chain analysis, certificate serial-number verification and CRL-based certificate-revocation investigation.
 
 **Assessment result:** 30/30
+
+[🏆 View Assessment Result](screenshots/ssl-assessment-30-of-30-clean.png)
 
 ---
 
@@ -150,4 +157,5 @@ The completed SSL Certificate Analysis submission will be included in this repos
 
 **Benard Obi Kekong**
 
+Cybersecurity Analyst | CompTIA Security+ | SOC & GRC | Microsoft Sentinel | SIEM | Risk Assessment | Python
 Cybersecurity Analyst | CompTIA Security+ | SOC & GRC | Microsoft Sentinel | SIEM | Risk Assessment | Python
