@@ -158,4 +158,3 @@ The project evidence demonstrates SHA-256 fingerprint analysis, Subject Alternat
 **Benard Obi Kekong**
 
 Cybersecurity Analyst | CompTIA Security+ | SOC & GRC | Microsoft Sentinel | SIEM | Risk Assessment | Python
-Cybersecurity Analyst | CompTIA Security+ | SOC & GRC | Microsoft Sentinel | SIEM | Risk Assessment | Python
